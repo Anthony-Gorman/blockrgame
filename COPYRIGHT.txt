@@ -1,1 +1,38 @@
-BLOCKR - COPYRIGHT NOTICE AND TERMS OF USECopyright © 2026 Anthony Gorman. All rights reserved.1. OWNERSHIPThe software project known as "blockr", including but not limited to its source code, game mechanics, gameplay systems, algorithms, user interface designs, graphics, artwork, animations, text, documentation, branding, logos, website content, and all associated materials, is the intellectual property of Anthony Gorman unless otherwise stated.2. COPYRIGHT PROTECTIONThis work is protected by copyright law and international copyright treaties. All rights not expressly granted herein are reserved by the copyright holder.3. RESTRICTIONSNo permission is granted to any person or organisation to:- Copy, reproduce, or redistribute any part of this project.- Modify, adapt, translate, or create derivative works based on this project.- Reverse engineer, decompile, or disassemble any part of the software.- Publish, sublicense, rent, lease, or sell any part of this project.- Use any source code, game mechanics, designs, artwork, branding, or other content from this project in another product or service.- Remove or alter copyright notices or attribution statements.4. GITHUB REPOSITORYAny public availability of this repository is provided solely for viewing and portfolio purposes. Publication on GitHub or any other platform does not grant any licence, rights, or permissions to use, copy, modify, distribute, or create derivative works from this project.5. TRADEMARKS AND BRANDINGThe name "blockr", together with any logos, visual branding, and associated identifiers, may not be used without the prior written permission of the copyright holder.6. PERMITTED USEVisitors may view the contents of this repository through GitHub's normal functionality. No other rights are granted.7. DISCLAIMERThis software is provided "as is" without warranty of any kind, express or implied. The copyright holder shall not be liable for any claim, damages, or other liability arising from, out of, or in connection with the software or its use.8. CONTACTFor licensing, permissions, commercial enquiries, or other requests relating to the use of this project, please contact the copyright holder.Anthony Gorman© 2026 Anthony Gorman. All rights reserved.
+BLOCKR - COPYRIGHT NOTICE AND TERMS OF USE
+
+Copyright Â© 2026 Anthony J Gorman. All rights reserved.
+
+1. OWNERSHIP
+The software project known as "blockr", including but not limited to its source code, game mechanics, gameplay systems, algorithms, user interface designs, graphics, artwork, animations, text, documentation, branding, logos, website content, and all associated materials, is the intellectual property of Anthony J Gorman unless otherwise stated.
+
+2. COPYRIGHT PROTECTION
+This work is protected by copyright law and international copyright treaties. All rights not expressly granted herein are reserved by the copyright holder.
+
+3. RESTRICTIONS
+No permission is granted to any person or organisation to:
+- Copy, reproduce, or redistribute any part of this project.
+- Modify, adapt, translate, or create derivative works based on this project.
+- Reverse engineer, decompile, or disassemble any part of the software.
+- Publish, sublicense, rent, lease, or sell any part of this project.
+- Use any source code, game mechanics, designs, artwork, branding, or other content from this project in another product or service.
+- Remove or alter copyright notices or attribution statements.
+
+4. GITHUB REPOSITORY
+Any public availability of this repository is provided solely for viewing and portfolio purposes. Publication on GitHub or any other platform does not grant any licence, rights, or permissions to use, copy, modify, distribute, or create derivative works from this project.
+
+5. TRADEMARKS AND BRANDING
+The name "blockr", together with any logos, visual branding, and associated identifiers, may not be used without the prior written permission of the copyright holder.
+
+6. PERMITTED USE
+Visitors may view the contents of this repository through GitHub's normal functionality. No other rights are granted.
+
+7. DISCLAIMER
+This software is provided "as is" without warranty of any kind, express or implied. The copyright holder shall not be liable for any claim, damages, or other liability arising from, out of, or in connection with the software or its use.
+
+8. CONTACT
+For licensing, permissions, commercial enquiries, or other requests relating to the use of this project, please contact the copyright holder.
+
+Anthony Gorman
+
+Â© 2026 Anthony J Gorman. All rights reserved.
+
