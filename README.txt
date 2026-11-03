@@ -5,7 +5,7 @@ A browser-based puzzle game where players strategically place blocks to fill the
 https://playblockr.com
 
 ## Features
-- Daily puzzle
+- Daily 5x5 and 6x6 puzzles
 - Statistics tracking
 - Sharing results
 - Responsive design for desktop and mobile
